@@ -1,11 +1,8 @@
 # cs224n
 
 * Stanford cs224n: Natural Language Processing with Deep Learning (**Winter 2019**)
-
   * [youtube](https://youtu.be/8rXD5-xhemo)
-
   * [syllabus, Winter 2019](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) // youtube version
-
   * [syllabus, Winter 2020](http://web.stanford.edu/class/cs224n/)
 
     

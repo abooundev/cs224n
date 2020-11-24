@@ -5,6 +5,8 @@
   * [syllabus, Winter 2019](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) // youtube version
   * [syllabus, Winter 2020](http://web.stanford.edu/class/cs224n/)
 
+* 강필성 교수님 세미나
+  * http://dsba.korea.ac.kr/seminar/?mod=document&uid=42
     
 
 ## study
